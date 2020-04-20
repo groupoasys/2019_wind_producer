@@ -1,5 +1,5 @@
 # Readme of the  2019_wind_producer repository 
-Power systems data (2015-2019) used in the numerical case study of the [paper] published on Transactions on Power Systems (IEEE). The data includes relevant forecasts of DK1 bidding zone and wind power production forecasts of nearby areas. Day-ahead market prices of DK1 are also included. 
+Power systems data (2015-2019) used in the numerical case study of the [paper] published on IEEE Transactions on Power Systems. The data includes relevant forecasts of DK1 bidding zone and wind power production forecasts of nearby areas. Day-ahead market prices of DK1 are also included. 
 
 ## Dataset Content 
 This section describes in detail the data series of the only data file in the repository: dataset_wind_europe_2015_2019.csv
